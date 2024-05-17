@@ -11,6 +11,10 @@ Descrição concisa do projeto.
 
 1- Clone o repositório: `git clone https://github.com/joaopcassiano/projeto-implementacao-curso-dotnet.git`.
 2- Navegue até o diretório do projeto: `cd projeto-implementacao-curso-dotnet`.
+3- Execute o comando da instalaçã: `dotnet build' ou 'dotnet publish`
+
+1- Clone o repositório: `git clone https://github.com/joaopcassiano/projeto-implementacao-curso-dotnet.git`.
+2- Navegue até o diretório do projeto: `cd projeto-implementacao-curso-dotnet`.
 3- Execute o comando de instalação: `dotnet build` ou `dotnet publish`.
 
 ## Uso
