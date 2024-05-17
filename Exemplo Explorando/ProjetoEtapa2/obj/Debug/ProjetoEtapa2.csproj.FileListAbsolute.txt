@@ -1,0 +1,10 @@
+C:\Users\progepe-p063357\Desktop\Curso .NET\Exemplo Explorando\ProjetoEtapa2\bin\Debug\ProjetoEtapa2.exe.config
+C:\Users\progepe-p063357\Desktop\Curso .NET\Exemplo Explorando\ProjetoEtapa2\bin\Debug\ProjetoEtapa2.exe
+C:\Users\progepe-p063357\Desktop\Curso .NET\Exemplo Explorando\ProjetoEtapa2\bin\Debug\ProjetoEtapa2.pdb
+C:\Users\progepe-p063357\Desktop\Curso .NET\Exemplo Explorando\ProjetoEtapa2\obj\Debug\ProjetoEtapa2.csproj.AssemblyReference.cache
+C:\Users\progepe-p063357\Desktop\Curso .NET\Exemplo Explorando\ProjetoEtapa2\obj\Debug\ProjetoEtapa2.csproj.CoreCompileInputs.cache
+C:\Users\progepe-p063357\Desktop\Curso .NET\Exemplo Explorando\ProjetoEtapa2\obj\Debug\ProjetoEtapa2.exe
+C:\Users\progepe-p063357\Desktop\Curso .NET\Exemplo Explorando\ProjetoEtapa2\obj\Debug\ProjetoEtapa2.pdb
+C:\Users\progepe-p063357\Desktop\Curso .NET\Exemplo Explorando\ProjetoEtapa2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\progepe-p063357\Desktop\Curso .NET\Exemplo Explorando\ProjetoEtapa2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\progepe-p063357\Desktop\Curso .NET\Exemplo Explorando\ProjetoEtapa2\obj\Debug\ProjetoE.8674FC60.Up2Date

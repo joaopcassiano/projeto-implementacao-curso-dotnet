@@ -1,0 +1,36 @@
+
+#PROJETO BOOTCAMP C# / .NET Developer
+
+PLATAFORMA DE ENSINO DO BOOTCAMP: DIO;
+PROFESSOR: LEONARDO BUTA;
+======================================================
+
+# CONTEUDO:
+
+Program: Conteudo principal, chamando as classes e implementacao do comportamento.
+
+Classe Pessoa: Cria dois alunos (pode ser implementado um laço de repeticao para ser X alunos).
+
+Classe Curso: Adiciona as pessoas criadas ao curso.
+
+Pasta "Arquivos": Arquivos texto e serializações do código.
+
+
+# COMPETENCIAS PRESENTES NO CODIGO:
+
+- Operador, Operador Aritmetico e Operador Ternario.
+- Estrutura de Repeticao.
+- Array e Listas.
+- Propriedades, Metodos e Construtores.
+- Manipulacao de vetor.
+- Excecoes e Colecoes.
+- Tuplas.
+- Desconstrucao de Objeto.
+- Nuget.
+- Serializacao.
+- Atributos.
+
+# DESENVOLVIDO POR
+
+Joao Pedro Cassiano (https://github.com/joaopcassiano) - joaocassiano.dev@gmail.com
+

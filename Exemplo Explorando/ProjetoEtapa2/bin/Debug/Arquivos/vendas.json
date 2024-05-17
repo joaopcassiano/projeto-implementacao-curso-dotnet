@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Cargo": "Base salarial júnior",
+    "Salario": 2300.00,
+    "dataConsulta": "2024-05-17T08:06:10.9703389-03:00"
+  },
+  {
+    "Id": 2,
+    "Cargo": "Base salarial pleno",
+    "Salario": 6059.00,
+    "dataConsulta": "2024-05-17T08:06:10.9703389-03:00"
+  },
+  {
+    "Id": 3,
+    "Cargo": "Base salarial senior",
+    "Salario": 14981.00,
+    "dataConsulta": "2024-05-17T08:06:10.9703389-03:00"
+  }
+]
