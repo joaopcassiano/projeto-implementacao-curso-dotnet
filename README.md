@@ -19,7 +19,7 @@ Abra o projeto no Visual Studio ou VVS Code para a visualização das classes e 
 
 ## Histórico de Alterações
 
-Não foi realizado nenhuma mudança significativa do projeto. Liste-as a seguir:
+Este é o projeto base, após alguma alteração significativa. Liste-as a seguir:
 
 1-
 
