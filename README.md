@@ -5,7 +5,7 @@ Descrição concisa do projeto.
 ## Pré-requisitos
 
 - [ ] Visual Studio ou VS Code.
-- [ ] .NET SDK versão X.X.X.
+- [ ] .NET Framework 4.7.2.
 
 ## Instalação
 
